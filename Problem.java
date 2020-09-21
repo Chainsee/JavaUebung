@@ -14,9 +14,12 @@ public class DirReduction {
         System.out.println("Test vor remove");
         arrayList.remove(i);
         System.out.println("Test nach remove");
+        /*
+            [...]
+        */
         }
       }
-      
+     
       return new String[] {};
     }
 }
